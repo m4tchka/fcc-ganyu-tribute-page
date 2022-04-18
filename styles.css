@@ -1,1 +1,43 @@
 /* Copy and paste your CSS from CodePen into here */
+html {
+    background:linear-gradient(135deg,#6E50A9,#505EA9,#508BA9);
+  }
+  img {
+    max-width:50%;
+    display:block;
+    height:auto;
+    width:auto;
+    margin:auto;
+  }
+  h1 {
+    font-size:3em;
+    background-color:rgba(45,45,45,0.1);
+    color:cyan;
+    display:flex;
+  }
+  h2 {
+    color:cyan;
+    font-size:2em;
+  }
+  h3 {
+    color:cyan;
+    font-size:1.5em;
+  }
+  #tribute-info {
+    background-color:rgba(45,45,45,0.1);
+  }
+  #img-caption {
+    font-size:12px;
+    font-style:italic;
+    text-align:center;
+  }
+  
+  ul, ol {
+  background-color:rgba(25,25,25,0.1);
+  border-color:rgba(25,25,25,0.05);
+  border-width:0.1em;
+  border-style:solid;
+  }
+  #tribute-link {
+  color:cyan;}
+  
